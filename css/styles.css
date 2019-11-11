@@ -84,14 +84,14 @@ html, body {
   color: var(--color-2);
 }
 
-/* HERO */
+/* Video  Section */
 
-.hero {
+.video {
   overflow: hidden;
 }
 .video {
   width: 100%;
-  height: auto;
+  height: 300px;
 }
 
 /* SECTION SUBSCRIBE */
